@@ -1,0 +1,4 @@
+LIKE 'texto' --> exatamente igual ao termo
+LIKE '%texto%' --> qualquer palavra que contenha o termo
+LIKE '%texto' --> qualquer palavra que termine com o termo
+LIKE 'texto%' --> qualquer palavra que inicie com o termo
